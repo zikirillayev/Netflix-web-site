@@ -1,0 +1,45 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+body{
+  background-image: url(https://assets.nflxext.com/ffe/siteui/vlv3/9c5457b8-9ab0-4a04-9fc1-e608d5670f1a/37df5131-b91c-4489-bb41-da4bd9bdb1e1/UZ-en-20210719-popsignuptwoweeks-perspective_alpha_website_medium.jpg);
+  width: 100%;
+  height: 100%; 
+  background-repeat: no-repeat; 
+  background-color: black;
+}
+.shadow{
+  background: rgba(0, 0, 0, 0.70);
+  width: 100%;
+  height: 1125px;
+}
+.my-container{
+  margin: 0 auto;
+  max-width: 1280px;
+  width: 90%;
+}
+.container1{
+  margin: 0 auto;
+  max-width: 1280px;
+  width: 60%;
+}
+.collapsible{
+  border: none;
+  margin: 10px;
+}
+.collapsible-body{
+  border: black;
+}
+.my-container1{
+  margin: 0 auto;
+  max-width: 1280px;
+  width: 70%;
+}
+.link:hover{
+  text-decoration: underline;
+}
